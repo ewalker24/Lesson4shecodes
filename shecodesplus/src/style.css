@@ -1,0 +1,59 @@
+h2,
+h5,
+p {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Titillium Web", sans-serif;
+}
+h2,
+h4,
+h5 {
+  text-align: center;
+}
+h4 {
+  font-size: 64px;
+}
+
+.col {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Titillium Web", sans-serif;
+}
+#search-button,
+#current-location {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Titillium Web", sans-serif;
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: #8fbbb0;
+  border-radius: 5px;
+}
+
+.card-body {
+  color: #fff;
+  background: #8fbbb0;
+}
+.time {
+  font-family: "Roboto Mono", monospace;
+  font-family: "Titillium Web", sans-serif;
+  text-align: right;
+}
+.search {
+  border: 1px solid #fff;
+  background: #8fc6b8;
+  border-radius: 5px;
+}
+.sun-image {
+  text-align: center;
+}
+
+::placeholder {
+  color: #fff;
+  font-family: "Roboto Mono", monospace;
+  font-family: "Titillium Web", sans-serif;
+}
+#wind,
+#humidity {
+  text-align: right;
+}
+#degrees {
+  text-align: center;
+}
